@@ -18,8 +18,7 @@
 - What does my site cost? - https://whatdoesmysitecost.com
 
 **Easing**
-- https://easings.net/en
-- https://matthewlein.com/tools/ceaser
+- Easing Functions: https://easings.net/en
 
 **Fonts**
 - Font Playground - https://play.typedetail.com
@@ -31,6 +30,7 @@
 - CSS animation - https://keyframes.app/
 - CSS clip-path - https://bennettfeely.com/clippy/
 - CSS duotone - https://cssduotone.com
+- CSS easing - - https://matthewlein.com/tools/ceaser
 - CSS filters - https://css-playground.com/view/39/css_filter_playground
 - CSS filter generator to convert from black to target hex color - https://codepen.io/sosuke/details/Pjoqqp/
 - Golden Ratio Calculator - https://grtcalculator.com
