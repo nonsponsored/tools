@@ -14,6 +14,7 @@
 - HTML Checker - https://validator.w3.org/nu/ (note options to test Outline and Images)
 - Link Checker - https://validator.w3.org/checklinklink
 - Meta Tag Checker - https://www.heymeta.com
+- Text on Image - http://www.brandwood.com/a11y/
 - Yellow Lab Tools - https://yellowlab.tools
 - What does my site cost? - https://whatdoesmysitecost.com
 
