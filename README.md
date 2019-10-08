@@ -54,7 +54,7 @@
 - Webhint - https://webhint.io/#scanner-input
 
 **SEO**
-- SEO Audit - https://www.seoptimer.comseo
+- SEO Audit - https://www.seoptimer.com
 
 **Software**
 - PixelSnap - https://getpixelsnap.com
