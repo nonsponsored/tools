@@ -15,6 +15,7 @@
 - Link Checker - https://validator.w3.org/checklinklink
 - Meta Tag Checker - https://www.heymeta.com
 - Text on Image - http://www.brandwood.com/a11y/
+- tota11y - https://khan.github.io/tota11y/
 - Yellow Lab Tools - https://yellowlab.tools
 - What does my site cost? - https://whatdoesmysitecost.com
 
