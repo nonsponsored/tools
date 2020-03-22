@@ -54,6 +54,7 @@
 - Progressive Tooling* - https://progressivetooling.com
 - TestMySite - https://testmysite.io
 - Webhint - https://webhint.io/#scanner-input
+- WebPageTest - https://www.webpagetest.org
 
 **SEO**
 - SEO Audit - https://www.seoptimer.com
