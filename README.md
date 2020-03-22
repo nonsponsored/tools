@@ -60,8 +60,8 @@
 - SEO Audit - https://www.seoptimer.com
 
 **Software**
-- PixelSnap - https://getpixelsnap.com
 - Overflow - https://overflow.io
+- PixelSnap - https://getpixelsnap.com
 
 **SVG**
 - Compress - https://vecta.io/nano
