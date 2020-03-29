@@ -23,6 +23,7 @@
 
 **Fonts**
 - Font Playground - https://play.typedetail.com
+- Font Style Matcher - https://meowni.ca/font-style-matcher/
 - Variable Fonts - https://v-fonts.com
 
 **Generators**
