@@ -22,6 +22,7 @@
 - Easing Functions: https://easings.net/en
 
 **Fonts**
+- A Variable Fonts Primer - https://variablefonts.io
 - Font Playground - https://play.typedetail.com
 - Font Style Matcher - https://meowni.ca/font-style-matcher/
 - Variable Fonts - https://v-fonts.com
