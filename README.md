@@ -1,8 +1,8 @@
 **Accessibility**
+- ARIA Authoring Practices Guide - https://www.w3.org/WAI/ARIA/apg/patterns/
 - How to Meet WCAG 2.1 (Quick Reference) - https://www.w3.org/WAI/WCAG21/quickref/?versions=2.1
 - WCAG - https://www.w3.org/TR/WCAG21/
 - WebAIM - https://webaim.org
-- ARIA Authoring Practices Guide - https://www.w3.org/WAI/ARIA/apg/patterns/
 
 **Asset Templates**
 - SocialSizes - https://socialsizes.io
