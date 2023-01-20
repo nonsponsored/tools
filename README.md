@@ -2,6 +2,7 @@
 - ARIA Authoring Practices Guide - https://www.w3.org/WAI/ARIA/apg/patterns/
 - How to Meet WCAG 2.1 (Quick Reference) - https://www.w3.org/WAI/WCAG21/quickref/?versions=2.1
 - Learn Accessibility - https://web.dev/learn/accessibility/
+- Setting up a screen reader testing environment on your computer - https://www.sarasoueidan.com/blog/testing-environment-setup/
 - WCAG - https://www.w3.org/TR/WCAG21/
 - WebAIM - https://webaim.org
 
@@ -71,3 +72,6 @@
 **SVG**
 - Compress - https://vecta.io/nano
 - Editor - http://petercollingridge.appspot.com/svg-editor
+
+**Web Components**
+- HTML with Superpowers - https://htmlwithsuperpowers.netlify.app
